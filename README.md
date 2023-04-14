@@ -1,4 +1,4 @@
-# p-python-exceptions-00-sols
+# p-python-exceptions-00
 
 python:
 - exceptions
